@@ -1,0 +1,56 @@
+html {
+ font-family: monospace
+}
+
+.contenedor {
+    margin: auto;
+    width: 50%;
+    border: 1px dotted black;
+    border-radius: 8px;
+    background-color: #ffdde2;
+    padding: 10px;
+}
+
+.borrarTarea { 
+    float: right;
+    border: 0px;
+    border-radius: 8px;
+}
+
+.tarea {
+    margin: 20px;
+    border: 1px solid #ffdde2;
+    border-radius: 8px;
+    background-color: #6f5e76;
+    color: white;
+    padding: 8px 8px;
+
+}
+
+.TodoInput {
+    margin: 20px;
+}
+
+.btn-agregar {
+    width: 100%;
+    border-radius: 8px ;
+    border: 1px solid #ffdde2;
+    margin-top: 8px;
+    background-color: #6f5e76;
+    color: white;
+    padding: 4px 4px;
+}
+
+.check {
+    margin-right: 8px;
+}
+
+.title {
+    text-align: center;
+    margin: 2rem auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text {
+    text-align: center;
+}
